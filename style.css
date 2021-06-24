@@ -97,7 +97,7 @@ nav img{
             display:block;
         }
         .nav-links{
-            position:absolute;
+            position:relative;
             height:100vh;
             background: #f44336;
             width:200px;
