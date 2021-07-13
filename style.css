@@ -509,9 +509,15 @@ padding-top: 100px;
         .contact-col div .fa{
             size: 20px;
         }
-
-
+     .course{
+                  width: 70%;
+                  margin: -59px;
+                  text-align: center;
+                  padding: 100px;
+    }
 }
+
+
 
 
     
